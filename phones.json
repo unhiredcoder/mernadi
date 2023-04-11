@@ -1,0 +1,65 @@
+
+{
+  "phones":[
+    {
+      "brand": "Apple",
+      "name": "iPhone 12",
+      "price": 799,
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-select-2021?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1626956145000"
+    },
+    {
+      "brand": "Samsung",
+      "name": "Galaxy S21",
+      "price": 699,
+      "image": "https://images.samsung.com/is/image/samsung/assets/us/smartphones/galaxy-s21/overview/001-Overview_Image_Mo_S21-White.jpg?$gallery-hd-jpg$"
+    },
+    {
+      "brand": "OnePlus",
+      "name": "9 Pro",
+      "price": 969,
+      "image": "https://static.oneplus.com/static/images/product/9-pro/detail-banner/6.jpg"
+    },
+    {
+      "brand": "Google",
+      "name": "Pixel 5",
+      "price": 699,
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/20201015_Pixel5_hero_008.jpg"
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi 11",
+      "price": 749,
+      "image": "https://cdn.vox-cdn.com/thumbor/lYDTJcK-gxMxZzXcbllGd2FjJhM=/0x0:2040x1360/920x613/filters:focal(1059x573:1381x895):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/69083554/vpavic_210105_4406_0104.0.jpg"
+    },
+    {
+      "brand": "LG",
+      "name": "Wing",
+      "price": 999,
+      "image": "https://www.lg.com/us/images/cell-phones/md07521355/gallery/desktop-01.jpg"
+    },
+    {
+      "brand": "Motorola",
+      "name": "Moto G Power (2021)",
+      "price": 199,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71Z7zB0ZlHL._AC_SL1500_.jpg"
+    },
+    {
+      "brand": "Sony",
+      "name": "Xperia 5 II",
+      "price": 949,
+      "image": "https://www.sony.com/image/93ec4070c4b895d42aa98c8f96928d21?fmt=pjpeg&wid=660&hei=660&bgcolor=F1F5F9&bgc=F1F5F9"
+    },
+    {
+      "brand": "Nokia",
+      "name": "8.3 5G",
+      "price": 699,
+      "image": "https://www.nokia.com/sites/default/files/styles/product_hero/public/product/nokia-8-3-5g-cyan-hero.png"
+    },
+    {
+      "brand": "ASUS",
+      "name": "ROG Phone 5",
+      "price": 999,
+      "image": "https://rog.asus.com/media/1626122518196.jpg"
+    }
+  ]
+}
